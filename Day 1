@@ -1,0 +1,350 @@
+One Identity Manager — 30 Day Master Plan
+🔹 Week 1 — Fundamentals (Foundation)
+
+Goal: Understand IAM + One Identity basics
+
+✅ Day 1: IAM Basics
+
+What is Identity & Access Management (IAM)
+
+Joiner / Mover / Leaver lifecycle
+
+RBAC vs ABAC
+
+Provisioning vs De-provisioning
+
+👉 Outcome: You understand the IAM ecosystem.
+
+✅ Day 2: One Identity Overview
+
+Architecture overview
+
+Components:
+
+Database
+
+Job Service
+
+Designer
+
+Manager
+
+Web Portal
+
+High-level data flow
+
+👉 Outcome: Big picture clarity.
+
+✅ Day 3: Installation & Tools
+
+Install client tools (if lab available)
+
+Explore:
+
+Manager
+
+Designer
+
+Launchpad
+
+Understand authentication methods
+
+👉 Outcome: Comfortable navigating tools.
+
+✅ Day 4: Object Model Basics
+
+Tables and columns
+
+Person object
+
+Account definitions
+
+Target systems overview
+
+👉 Outcome: Understand how data is stored.
+
+✅ Day 5: User Lifecycle
+
+Joiner process
+
+Mover process
+
+Leaver process
+
+Account enable/disable
+
+👉 Outcome: Map real HR → AD flow.
+
+✅ Day 6: Daily Admin Activities (VERY IMPORTANT for L1)
+
+Typical L1 tasks:
+
+🔥 Monitor failed jobs
+🔥 Unlock user accounts
+🔥 Password reset
+🔥 Assign/remove groups
+🔥 Check provisioning status
+🔥 Handle access requests
+🔥 Mailbox access issues
+
+👉 Outcome: Job-ready basics.
+
+✅ Day 7: Week 1 Revision + Practice
+
+Revise concepts
+
+Navigate Manager confidently
+
+Practice object search
+
+🔹 Week 2 — Core Administration
+
+Goal: Become solid L1/L2 operator
+
+✅ Day 8: Active Directory Integration
+
+How AD sync works
+
+ADSAccount vs Person
+
+Account definitions
+
+Provisioning flow
+
+✅ Day 9: Synchronization Editor
+
+⚠️ Interview favorite topic
+
+Learn:
+
+Sync project
+
+Mapping
+
+Workflows
+
+Start up configuration
+
+👉 Practice: Run a simulation sync.
+
+✅ Day 10: Job Queue & Job Service
+
+🔥 MOST IMPORTANT FOR L1
+
+Learn:
+
+Job Queue Info
+
+Job status
+
+Frozen jobs
+
+Error handling
+
+👉 Practice: Troubleshoot failed job.
+
+✅ Day 11: Request & Approval Workflow
+
+IT Shop basics
+
+Request process
+
+Approval policies
+
+Attestation basics
+
+✅ Day 12: Roles & Entitlements
+
+Business roles
+
+Application roles
+
+System roles
+
+AD groups
+
+👉 Know difference clearly (interview hot question)
+
+✅ Day 13: Troubleshooting Basics
+
+Learn to check:
+
+Job Queue errors
+
+Sync errors
+
+Permission issues
+
+Account not created
+
+Access not visible
+
+✅ Day 14: Week 2 Hands-on
+
+Practice scenarios:
+
+User not getting AD account
+
+Group membership missing
+
+Job stuck
+
+Sync failure
+
+🔹 Week 3 — Advanced Admin (L2 Level)
+
+Goal: Move toward strong production support.
+
+✅ Day 15: Designer Tool Basics
+
+Configuration parameters
+
+Table structure
+
+Permissions model
+
+✅ Day 16: Policies & Compliance
+
+Attestation campaigns
+
+Policy violations
+
+Risk index basics
+
+✅ Day 17: IT Shop Deep Dive
+
+Service items
+
+Shop structure
+
+Request templates
+
+✅ Day 18: Custom Reports
+
+Using Manager reports
+
+Basic reporting concepts
+
+✅ Day 19: Advanced Troubleshooting
+
+Real cases:
+
+Orphan accounts
+
+Account definition not applied
+
+Person not linked
+
+UNSAccountB issues
+
+✅ Day 20: Performance & Monitoring
+
+Job server health
+
+DB growth
+
+Sync performance
+
+✅ Day 21: Week 3 Mock Practice
+
+Simulate real tickets (L1/L2 style)
+
+🔹 Week 4 — Interview + Real Ticket Mastery
+
+Goal: Become job-ready.
+
+✅ Day 22–24: Top Real L1 Tickets
+
+Most common:
+
+User account not created
+
+User not added to AD group
+
+Job queue frozen
+
+Sync failed
+
+Access request stuck
+
+Mailbox permission issue
+
+User not visible in Manager
+
+Account disabled unexpectedly
+
+IT Shop request pending
+
+Attestation pending
+
+👉 Practice resolution steps.
+
+✅ Day 25: Root Cause Analysis
+
+How to read logs
+
+How to trace provisioning
+
+How to check DB entries
+
+✅ Day 26: Interview Questions Prep
+
+Must-know questions:
+
+Difference: Business role vs Application role
+
+What is Job Service?
+
+How provisioning works?
+
+How to troubleshoot failed job?
+
+What is ADSAccount?
+
+What is IT Shop?
+
+✅ Day 27: Mock Interview
+
+Practice speaking answers.
+
+✅ Day 28: Real Environment Simulation
+
+Pick random user issue
+
+Troubleshoot end-to-end
+
+✅ Day 29: Weak Area Fix
+
+Focus on:
+
+Sync
+
+Job queue
+
+IT Shop
+
+AD integration
+
+✅ Day 30: Final Readiness Check
+
+You should be able to:
+
+✅ Handle L1 tickets independently
+✅ Explain architecture
+✅ Troubleshoot job failures
+✅ Understand sync flow
+✅ Answer interview questions
+
+🔥 Tools Used Daily by L1 Engineer
+
+Most used:
+
+Manager ⭐⭐⭐⭐⭐
+
+Job Queue Info ⭐⭐⭐⭐⭐
+
+Launchpad ⭐⭐⭐⭐
+
+Web Portal ⭐⭐⭐⭐
+
+Synchronization Editor ⭐⭐⭐
